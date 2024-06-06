@@ -1,0 +1,4 @@
+{
+  "extends": "@objective-ui/ts-config/base.json",
+  "include": ["src"]
+}
