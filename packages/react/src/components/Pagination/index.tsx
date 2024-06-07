@@ -1,4 +1,4 @@
-import { Button, ImageController } from './styles'
+import { Button, ImageController, PaginationContainer } from './styles'
 import {
   CaretDoubleLeft,
   CaretDoubleRight,
@@ -34,7 +34,7 @@ export function Pagination({
   }
 
   return (
-    <>
+    <PaginationContainer>
       <ImageController
         onClick={() => onPageChange(1)}
         disabled={currentPage === 1}
@@ -60,7 +60,7 @@ export function Pagination({
       >
         <CaretDoubleRight />
       </ImageController>
-    </>
+    </PaginationContainer>
   )
 }
 

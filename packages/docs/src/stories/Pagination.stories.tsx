@@ -26,7 +26,7 @@ export default {
   },
   decorators: [
     (Story) => {
-      const [currentPage, setCurrentPage] = useState(5)
+      const [currentPage, setCurrentPage] = useState(1)
 
       const handlePageChange = (action: string | number) => {
         console.log('onPageChange called with:', action)
