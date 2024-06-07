@@ -1,9 +1,9 @@
 # Components
 
-- [ ] Button
+- [x] Button
 - [x] Heading
 - [x] Text
-- [ ] TextInput
+- [x] TextInput
 - [ ] Card
 - [ ] Pagination
 - [x] Avatar
