@@ -6,6 +6,10 @@ export const Box = styled('div', {
   borderRadius: '$sm',
   backgroundColor: '$white',
   boxShadow: '0px 0px 5px #00000033',
+
+  [`@media (max-width: 768px)`]: {
+    padding: '$3 $4',
+  },
 })
 
 export interface BoxProps extends ComponentProps<typeof Box> {
