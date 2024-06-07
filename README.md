@@ -91,11 +91,6 @@ Para executar e desenvolver a biblioteca localmente, use os seguintes comandos:
    npm run build
    ```
 
-3. **Run Storybook for component visualization / Execute o Storybook para visualização de componentes:**
-   ```sh
-   npm run dev -w @objective-ui/docs
-   ```
-
 ## Using the Design System / Usando o Sistema de Design
 
 You can use the Objective UI design system in your projects by installing the packages from npm:
@@ -137,7 +132,7 @@ You can view the full documentation and explore the available components in the 
 
 Você pode ver a documentação completa e explorar os componentes disponíveis no [Storybook online](https://italoog.github.io/objective-ui/).
 
-## Special Attention to Challenge Components / Atenção Especial aos Componentes do Desafio
+## Challenge Components / Componentes do Desafio
 
 ### Input Component / Componente de Input
 A simple, customizable input component with props for title, placeholder, icon, and events.
@@ -165,7 +160,3 @@ Esperamos que você aproveite o uso do Objective UI e o ache útil em seus proje
 © 2024 Italo Gomes
 
 ---
-
-This README provides a comprehensive overview of the Objective UI project, detailing the challenge requirements, project structure, installation, usage, and documentation. Feel free to customize it further as needed.
-
-Este README fornece uma visão geral abrangente do projeto Objective UI, detalhando os requisitos do desafio, a estrutura do projeto, instalação, uso e documentação. Sinta-se à vontade para personalizá-lo conforme necessário.
