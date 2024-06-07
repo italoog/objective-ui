@@ -17,10 +17,14 @@ jobs:
         uses: actions/setup-node@v3
         with:
           node-version: 20
+          cache-dependency-path: '**/package-lock.json'
       
       - run: npm ci
 
       - run: npm run build
+        env:
+          TURBO_TOKEN: ${{ secrets.VERCEL_TOKEN }}
+          TURBO_TEAM: italoogs-projects
 
       - name: Deploy storybook
         working-directory: ./packages/docs
