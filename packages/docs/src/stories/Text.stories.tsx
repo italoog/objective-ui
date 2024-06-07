@@ -6,8 +6,31 @@ export default {
   component: Text,
 
   args: {
+    size: 'md',
     children:
       'Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat soluta ratione tenetur. Tenetur, reiciendis. Repudiandae ullam dolorem aliquam quo est, sapiente debitis blanditiis temporibus suscipit nobis, illo cupiditate, voluptatibus ratione?',
+  },
+  argTypes: {
+    size: {
+      options: [
+        'xxs',
+        'xs',
+        'sm',
+        'md',
+        'lg',
+        'xl',
+        '2xl',
+        '4xl',
+        '5xl',
+        '6xl',
+        '7xl',
+        '8xl',
+        '9xl',
+      ],
+      control: {
+        type: 'inline-radio',
+      },
+    },
   },
 } as Meta<TextProps>
 
