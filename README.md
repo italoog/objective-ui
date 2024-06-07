@@ -1,17 +1,10 @@
 # Components
 
 - [ ] Button
-- [ ] Heading
-- [ ] Text
+- [x] Heading
+- [x] Text
 - [ ] TextInput
-- [ ] Textarea
-- [ ] Checkbox
-- [ ] Avatar
-- [ ] MultiStep
-
-[] - Heading.
-[] - Text.
-[] - Input.
-[] - Card.
-[] - Pagination.
-[] - Avatar.
+- [ ] Card
+- [ ] Pagination
+- [x] Avatar
+- [x] Box
