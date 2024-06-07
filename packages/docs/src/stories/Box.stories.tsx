@@ -2,7 +2,7 @@ import type { Meta, StoryObj } from '@storybook/react'
 import { Box, BoxProps, Text } from '@objective-ui/react'
 
 export default {
-  title: 'Surfaces/Box',
+  title: 'Components/Box',
   component: Box,
 
   args: {

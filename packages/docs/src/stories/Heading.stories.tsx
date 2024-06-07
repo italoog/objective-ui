@@ -2,7 +2,7 @@ import type { Meta, StoryObj } from '@storybook/react'
 import { Heading, HeadingProps } from '@objective-ui/react'
 
 export default {
-  title: 'Typography/Heading',
+  title: 'Components/Heading',
   component: Heading,
 
   args: {

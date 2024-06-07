@@ -3,7 +3,7 @@ import { TextInput, TextInputProps } from '@objective-ui/react'
 import { MagnifyingGlass } from 'phosphor-react'
 
 export default {
-  title: 'Form/Text Input',
+  title: 'Components/Text Input',
   component: TextInput,
   args: {},
 } as Meta<TextInputProps>

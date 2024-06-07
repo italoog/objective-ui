@@ -8,7 +8,7 @@ import {
 } from 'phosphor-react'
 
 export default {
-  title: 'Form/Button',
+  title: 'Components/Button',
   component: Button,
   args: {
     children: '1',

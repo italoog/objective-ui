@@ -5,5 +5,6 @@ export * from './components/Avatar'
 export * from './components/Button'
 export * from './components/TextInput'
 export * from './components/Card'
+export * from './components/Pagination/'
 
 export * from './styles'

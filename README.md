@@ -4,7 +4,7 @@
 - [x] Heading
 - [x] Text
 - [x] TextInput
-- [ ] Card
+- [x] Card
 - [ ] Pagination
 - [x] Avatar
 - [x] Box

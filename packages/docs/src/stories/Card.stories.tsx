@@ -1,8 +1,8 @@
 import type { Meta, StoryObj } from '@storybook/react'
-import { Card, CardProps, Text } from '@objective-ui/react'
+import { Card, CardProps } from '@objective-ui/react'
 
 export default {
-  title: 'Surfaces/Card',
+  title: 'Components/Card',
   component: Card,
 
   args: {
