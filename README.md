@@ -1,6 +1,4 @@
-### README.md
-
-# Objective UI
+### Objective UI
 
 Welcome to the Objective UI project! This repository contains a design system and a collection of reusable components developed to enhance your front-end development experience. The project is structured as a monorepo and is published on npm for easy integration into your projects.
 
