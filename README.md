@@ -148,13 +148,3 @@ A dynamic or static pagination component with total pages, active page, and even
 Um componente de paginação dinâmico ou estático com total de páginas, página ativa e manipulação de eventos para gerenciar mudanças de página.
 
 ---
-
-We hope you enjoy using Objective UI and find it useful in your projects. Contributions are welcome! For any issues or feature requests, please open an issue on [GitHub](https://github.com/italoog/objective-ui).
-
-Esperamos que você aproveite o uso do Objective UI e o ache útil em seus projetos. Contribuições são bem-vindas! Para qualquer problema ou solicitação de recursos, por favor, abra uma issue no [GitHub](https://github.com/italoog/objective-ui).
-
----
-
-© 2024 Italo Gomes
-
----
