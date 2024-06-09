@@ -1,0 +1,2 @@
+import{A as t}from"./index.7b631c22.js";import"./index.80f0ecd1.js";import"./iframe.db386123.js";import"./index.749e4514.js";import"./jsx-runtime.97687b24.js";import"./index.36735e29.js";const e={title:"Components/Avatar",component:t,args:{src:"https://github.com/italoog.png",alt:"Italo Gomes"},argTypes:{src:{control:{type:"text"}},alt:{control:{type:"text"}}}},m={},c={args:{src:void 0,alt:void 0}},l=["Primary","WithFallback"];export{m as Primary,c as WithFallback,l as __namedExportsOrder,e as default};
+//# sourceMappingURL=Avatar.stories.0d62ea44.js.map
