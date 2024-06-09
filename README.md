@@ -114,7 +114,7 @@ Você pode usar o sistema de design Objective UI em seus projetos instalando os 
 
 Você pode ver a documentação completa e explorar os componentes disponíveis no [Storybook online](https://italoog.github.io/objective-ui/).
 
-## Atenção Especial aos Componentes do Desafio
+## Componentes do Desafio
 
 ### Componente de Input
 Um componente de input simples e personalizável com props para título, placeholder, ícone e eventos.
